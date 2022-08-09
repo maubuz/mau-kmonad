@@ -4,6 +4,7 @@ My configurations for kmonad
 ## Todo
 - Remove directory `user` from project structore (leave only mauedu).
 - Update `bashrc-kmonad` to reflect change above.
+- Move test files to specific folder.
 
 ## Using
 1. Clone this repository to `~/Code`
