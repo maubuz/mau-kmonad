@@ -11,6 +11,9 @@
   ;; Dell built-in laptop
   input (device-file "/dev/input/by-path/platform-i8042-serio-0-event-kbd")
 
+  ;; Logitech G410
+  ;; input (device-file "/dev/input/by-id/usb-Logitech_Gaming_Keyboard_G410_018836623538-event-kbd")
+
   ;; Lenovo keyboard (Hugh's)
   ;; input (device-file "/dev/input/by-id/usb-LITE-ON_Technology_USB_NetVista_Full_Width_Keyboard.-event-kbd")
 
