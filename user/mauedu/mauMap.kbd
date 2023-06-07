@@ -94,6 +94,6 @@
   _    F1   F2   F3   F4   F5   F6   F7   F8   F9   F10  F11  F12
   _    _    @ctb @cwn _    @cHm cmp  pgup up   pgdn _    _    _    _
   _    @all _    _    _    _    home left down rght end  _  
-       @un  @cut @cp  @pt  _    bspc del  @un  @re  _   
+       @un  @cut @cp  @pt  c    bspc del  @un  @re  _   
                            _
 )
