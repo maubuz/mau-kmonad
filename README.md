@@ -7,10 +7,12 @@ My configurations for kmonad
 - Move test files to specific folder.
 
 ## Using
+_Known to work with Ubuntu 25.04_
+
 1. Clone this repository to `~/Code`
-2. Copy `bashrc-kmonad` to ~/.bashrc.d
+2. Copy `bashrc-kmonad` to ~/.bashrc.d (assumes this dir is sourced in .bashrc. See [maubuz/.dotfiles]([url](https://github.com/maubuz/.dotfiles)))
 3. `souce ~/.bashrc` to load `bashrc-kmonad`
-4. Run the command `keyboard` in your shell.
+4. Run the command `key` or `keyboard` in your shell.
 
 ## Building Kmonad executable from source
 The bash script `docker-build.sh` will:
